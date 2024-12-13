@@ -1,7 +1,7 @@
 <h2>BETTURKEY GİRİŞ TIKLA</h2>
 
 <!-- Fotoğrafı tıklanabilir hale getirip başka bir siteye yönlendirme -->
-<a href="https://tinyurl.com/35f3e9ej" target="_blank">
+<a href="https://superbetin2331.com" target="_blank">
     <img src="https://i.hizliresim.com/lf1nsx1.png" alt="Fotoğraf">
 </a>
 
